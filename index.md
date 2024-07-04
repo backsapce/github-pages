@@ -1,7 +1,4 @@
 ---
-title: Welcome to my blog
+backspace blog
 ---
-
-Hello World!
-
-
+xD
